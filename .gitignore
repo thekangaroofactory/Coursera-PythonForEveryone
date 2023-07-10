@@ -189,3 +189,6 @@ fabric.properties
 /.idea/inspectionProfiles/Project_Default.xml
 /.idea/Training.iml
 /.idea/vcs.xml
+/mailbox_count.sqlite
+/mydb.db
+/trackdb.sqlite
