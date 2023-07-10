@@ -192,3 +192,4 @@ fabric.properties
 /mailbox_count.sqlite
 /mydb.db
 /trackdb.sqlite
+/rosterdb.sqlite
